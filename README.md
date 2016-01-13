@@ -296,3 +296,120 @@ Teams are entitled to a short break of at least 5 minutes between games of a mul
 ## 6.6 Results of Forfeiture
 Matches won by forfeit will be reported by the minimum score it would take for one team to win the match (e.g. 1-0 for best-of-1 matches, 2-0 for best-of-three matches, 3-0 for best-of-five matches).  No other statistics will be recorded for forfeited matches.
 
+# 7. Player Conduct
+
+## 7.2 Competition Conduct
+
+### 7.1.1 Unfair Play
+The following actions will be considered unfair play and will be subject to penalties at the discretion of NACC officials.
+
+#### 7.1.1.1 Collusion
+Collusion is defined as any agreement among two (2) or more players and/or confederates to disadvantage opposing players. Collusion includes, but is not limited to, acts such as:
+ - **7.1.1.1.1** Soft play, which is defined as any agreement among two (2) or more players to not damage, impede or otherwise play to a reasonable standard of competition in a game.
+ - **7.1.1.1.2** Pre-arranging to split prize money and/or any other form of compensation.
+ - **7.1.1.1.3** Sending or receiving signals, electronic or otherwise, from a confederate to/from a player.
+ - **7.1.1.1.4** Deliberately losing a game for compensation, or for any other reason, or attempting to induce another player to do so.
+
+#### 7.1.1.2 Competitive Integrity
+Teams are expected to play at their best at all times within any NACC game, and to avoid any behavior inconsistent with the principles of good sportsmanship, honesty, or fair play. For the purpose of clarification, team composition and the pick/ban phase will not be considered when determining whether this rule has been violated.
+
+#### 7.1.1.3 Hacking
+Hacking is defined as any modification of the League of Legends game client by any player, team or person acting on behalf of a player or a team.
+
+#### 7.1.1.4 Exploiting
+Exploiting is defined as intentionally using any in-game bug to seek an advantage. Exploiting includes, but is not limited to, acts such as:  glitches in buying items, glitches in neutral minion interactions, glitches in Champion ability performance, or any other game function that, in the sole determination of NACC officials, is not functioning as intended.
+
+#### 7.1.1.5 Ringing
+Playing under another player’s account or soliciting, inducing, encouraging or directing someone else to play under another player’s account.
+
+#### 7.1.1.6 Cheating Device
+The use of any kind of cheating device and/or cheat program.
+
+#### 7.1.1.7 Intentional Disconnection
+An intentional disconnection without a proper and explicitly-stated reason (e.g. rage quit).
+
+#### 7.1.1.8 NACC Discretion
+Any other further act, failure to act, or behavior which, in the sole judgment of NACC officials, violates these Rules and/or the standards of integrity established by NACC for competitive game play.
+
+### 7.1.2 Profanity and Hate Speech
+A Team Member may not use language that is obscene, foul, vulgar, insulting, threatening, abusive, libelous, slanderous, defamatory or otherwise offensive or objectionable; or promote or incite hatred or discriminatory conduct, in or near the match area, at any time. A Team Member may not use any facilities, services or equipment provided or made available by NACC or its contractors to post, transmit, disseminate or otherwise make available any such prohibited communications. A Team Member may not use this type of language on social media or during any public facing events such as streaming.
+
+### 7.1.3 Disruptive Behavior / Insults
+A Team Member may not take any action or perform any gesture directed at an opposing Team Member, fan, or official, or incite any other individual(s) to do the same, which is insulting, mocking, disruptive or antagonistic.
+
+### 7.1.4 Abusive Behavior
+Abuse of NACC officials, opposing Team Members, or audience members will not be tolerated. Repeated etiquette violations, including but not limited to touching another player’s computer, body or property will result in penalties. Team Members and their guests (if any) must treat all individuals attending a match with respect.
+
+### 7.2 Unprofessional Behavior
+
+### 7.2.1 Responsibility Under Code
+Unless expressly stated otherwise, offenses and infringements of these Rules are punishable, whether or not they were committed intentionally. Attempts to commit such offenses or infringements are also punishable.
+
+### 7.2.2 Harassment
+Harassment is forbidden. Harassment is defined as systematic, hostile, and repeated acts taking place over a considerable period of time, or a singular egregious instance, which is/are intended to isolate or ostracize a person and/or affect the dignity of the person. 
+
+### 7.2.3 Sexual Harassment
+Sexual harassment is forbidden. Sexual harassment is defined as unwelcome sexual advances. The assessment is based on whether a reasonable person would regard the conduct as undesirable or offensive. There is zero tolerance for any sexual threats/coercion or the promise of advantages in exchange for sexual favors.
+
+### 7.2.4 Discrimination and Denigration
+Team Members may not offend the dignity or integrity of a country, private person, or group of people through contemptuous, discriminatory, or denigrating words or actions on account of race, skin color, ethnic, national or social origin, gender, language, religion, political opinion or any other opinion, financial status, birth or any other status, sexual orientation or any other reason.
+
+
+### 7.2.5 Statements Regarding NACC, Riot Games, and League of Legends
+Team Members may not give, make, issue, authorize, or endorse any statement or action having, or designed to have, an effect prejudicial or detrimental to the best interest of NACC, Riot Games or its affiliates, or League of Legends, as determined in the sole and absolute discretion of NACC.
+
+
+### 7.2.6 Player Behavior Investigation
+If NACC or Riot determines that a Team or Team Member has violated the Summoner’s Code, the LoL Terms of Service, or other rules of LoL, NACC officials may assign penalties at their sole discretion. If a NACC official contacts a Team Member to discuss the investigation, the Team Member is obligated to tell the truth. If a Team Member lies to a NACC official creating obstruction of the investigation then the Team is subject to punishment.
+
+
+### 7.2.7 Criminal Activity
+A Team Member may not engage in any activity which is prohibited by common law, statute, or treaty and which leads to or may be reasonably deemed likely to lead to conviction in any court of competent jurisdiction.
+
+### 7.2.8 Moral Turpitude
+A Team Member may not engage in any activity which is deemed by the NACC to be immoral, disgraceful, or contrary to conventional standards of proper ethical behavior.
+
+
+### 7.2.9 Confidentiality
+A Team Member may not disclose any confidential information provided by NACC or any affiliate of Riot Games, by any method of communication, including all social media channels.
+
+
+### 7.2.10 Bribery
+No Team Member may offer any gift or reward to a player, coach, manager, NACC official, Riot Games employee, or person connected with or employed by another NACC team for services promised, rendered, or to be rendered in defeating or attempting to defeat a competing team.
+
+### 7.2.11 Gifts
+No Team Member may accept any gift, reward or compensation for services promised, rendered, or to be rendered in connection with competitive play of the game, including services related to defeating or attempting to defeat a competing team or services designed to throw or fix a match or game. The sole exception to this rule shall be in the case of performance-based compensation paid to a Team Member by a team's official sponsor or owner.
+
+
+### 7.2.12 Non-Compliance
+No Team Member may refuse or fail to apply the instructions or decisions of NACC officials.
+
+### 7.2.13 Match-Fixing
+No Team Member may offer, agree, conspire, or attempt to influence the outcome of a game or match by any means that are prohibited by law or these Rules.
+
+### 7.2.14 Document or Miscellaneous Requests
+Documentation or other reasonable items may be required at various times throughout the NACC as requested by NACC officials. Penalties may be imposed if the documentation or items requested are not received and/or completed at the required time or do not meet the standards set by the NACC
+
+## 7.3 Association with Gambling
+No Team Member or NACC official may take part, either directly or indirectly, in betting or gambling on any results of any League of Legends tournament or match globally.
+
+## 7.4 Subjection to Penalty
+Any person found to have engaged in or attempted to engage in any act that NACC believes, in its sole and absolute discretion, constitutes unfair play, will be subject to penalty. The nature and extent of the penalties imposed due to such acts shall be in the sole and absolute discretion of the NACC.
+
+## 7.5 Penalties
+Upon discovery of any Team Member committing any violations of the rules listed above, the NACC may, without limitation of its authority under Section 9.4, issue the following penalties:
+
+ - **7.5.1** Verbal Warning
+ - **7.5.2** Loss of Side Selection for Current or Future Game
+ - **7.5.3** Loss of Ban(s) for Current or Future Game
+ - **7.5.4** Fine(s) and/or Prize Forfeiture
+ - **7.5.5** Game Forfeiture
+ - **7.5.6** Match Forfeiture
+ - **7.5.7** Suspension
+ - **7.5.8** Disqualification
+
+## 7.6 Penalty Schedule
+Repeated infractions are subject to escalating penalties, up to, and including, disqualification from future participation in NACC. It should be noted that penalties may not always be imposed in a successive manner. NACC, in its sole discretion, for example, can disqualify a player for a first offense if the action of said player is deemed egregious enough to be worthy of disqualification by NACC.
+
+## 7.7 Right to Publish
+NACC shall have the right to publish a declaration stating that a Team Member has been penalized. Any Team Members and/or team which may be referenced in such declaration hereby waive any right of legal action against the League of Legends Championship Series, LLC, Riot Games, Inc., and/or any of their parents, subsidiaries, affiliates, employees, agents, or contractors
