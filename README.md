@@ -413,3 +413,14 @@ Repeated infractions are subject to escalating penalties, up to, and including, 
 
 ## 7.7 Right to Publish
 NACC shall have the right to publish a declaration stating that a Team Member has been penalized. Any Team Members and/or team which may be referenced in such declaration hereby waive any right of legal action against the League of Legends Championship Series, LLC, Riot Games, Inc., and/or any of their parents, subsidiaries, affiliates, employees, agents, or contractors
+
+## 8 Spirit of the Rules
+
+## 8.1 Finality of Decisions
+All decisions regarding the interpretation of these rules, player eligibility, scheduling and staging of the NACC, and penalties for misconduct, lie solely with NACC, the decisions of which are final. NACC decisions with respect to these Rules cannot be appealed and shall not give rise to any claim for monetary damages or any other legal or equitable remedy.
+
+## 8.2 Rule Changes
+These Rules may be amended, modified or supplemented by NACC, from time to time, in order to ensure fair play and the integrity of NACC.
+
+## 8.3 Best Interests of the NACC
+NACC officials at all times may act with the necessary authority to preserve the best interests of the NACC. This power is not constrained by lack of specific language in this document. NACC officials may use any form of punitive actions at their disposal against any entity whose conduct is not within the confines of the best interests of the NACC.
