@@ -95,7 +95,7 @@ If the sponsor falls under the ensuing limited categories then the sponsorship m
 # 4. League Structure
 
 ## 4.1 Definition of Terms
-**Game**: An instance of competition on the Summoner’s Rift map that is played until a winner is determined by one of the following methods, whichever occurs first:  (a) Destruction of a Nexus, (b) Team Surrender, (c) Team Forfeit, or (d) Awarded Game Victory (See Section 6.4).
+**Game**: An instance of competition on the Summoner’s Rift map that is played until a winner is determined by one of the following methods, whichever occurs first:  (a) Destruction of a Nexus, (b) Team Surrender, (c) Team Forfeit, or (d) Awarded Game Victory (See [Section 6.4](#64-awarded-game-victory).
 
 **Match**: A set of games that is played until one team wins a majority of the total games (e.g., winning two games out of three (“best of three”); winning three games out of five (“best of five”)). The winning team will either receive a win tally in a league format or advance to the next round in a bracket format.
 
@@ -169,7 +169,7 @@ At all times, referees shall conduct themselves in a professional manner, and sh
 If a referee makes an incorrect judgment, the judgment can be subject to reversal. NACC officials at their discretion may evaluate the decision during or after the match to determine if the proper procedure was implemented to allow for a fair decision.  If the proper procedure was not followed, NACC officials reserve the right to potentially invalidate the referee’s decision. NACC officials will always maintain final say in all decisions set forth throughout the NACC.
 
 ### 5.1.4 Gambling Prohibition
-All rules prohibiting gambling on LoL, as found below in Section 9, shall apply to referees without limitation.
+All rules prohibiting gambling on LoL, as found below in [Section 7.3](#73-association-with-gambling), shall apply to referees without limitation.
 
 ## 5.2 Competitive Patch & Server
 NACC will be played on the North America live server.  As such, the current live patch will be used for all competitive play.
@@ -189,7 +189,7 @@ All players will be expected to be ready to join the game lobby at the time spec
 NACC officials, in their sole discretion, have the right to adjust the match schedule at any time to preserve the pacing of the tournament or to remedy such circumstances as may detract from the viewer experience.
 
 ## 5.6 Lateness Penalties
-Teams that are not ready to play as defined Section 5.4 at their official match time are subject to lateness penalties. A team will lose one ban per 5 minutes of lateness.  A team will be subject to forfeiture if 25 minutes have elapsed since their official match time.  Intentionally delaying the lobby or game start will still subject the team to the rules set forth in this section.
+Teams that are not ready to play as defined [Section 5.4](#54-setup-and-player-responsibilities-for-online-matches) at their official match time are subject to lateness penalties. A team will lose one ban per 5 minutes of lateness.  A team will be subject to forfeiture if 25 minutes have elapsed since their official match time.  Intentionally delaying the lobby or game start will still subject the team to the rules set forth in this section.
 
 ## 5.7 Pause Process
 Teams or players may pause the game for any reason.  After a pause, the pausing team must use /all to share the reason for the pause and the estimated time to unpause.  When a team is ready to unpause, at least one player from both teams must declare their readiness in /all chat (e.g. “ready” or “r”) before the pausing team is allowed to unpause the game.
@@ -198,7 +198,7 @@ Teams or players may pause the game for any reason.  After a pause, the pausing 
 Teams may pause the game for a maximum of 10 minutes over the course of a single game, or 20 minutes over the course of a best-of-three match.  Pausing beyond allowance time will be considered unfair play and penalties will be applied at the discretion of tournament officials.
 
 ## 5.9 4v5 Play
-Teams are required to field a full team of five players be considered ready to start any match.  If a player disconnects from the lobby or champion select, the team is no longer ready to play, and lateness time begins.  If a player disconnects from the game, the game may continue as normal or be paused per section 5.8.
+Teams are required to field a full team of five players be considered ready to start any match.  If a player disconnects from the lobby or champion select, the team is no longer ready to play, and lateness time begins.  If a player disconnects from the game, the game may continue as normal or be paused per [Section 5.8](#58-pause-allowance).
 
 ## 5.10 Player Equipment Responsibility
 All players are responsible for ensuring the performance of their chosen setup, including computer hardware and peripherals, internet connection, and power.  A problem with player equipment is not an acceptable reason for lateness or pausing beyond a team’s allowance, regardless of the root cause of the problem.
@@ -253,7 +253,7 @@ In the event of an error in game start or a decision by NACC to separate the pic
 # 6 Game Rules
 
 ## 6.1 Game of Record
-A game of record (“GOR”) refers to a game where all ten players have loaded and which has progressed to a point of meaningful interaction between opposing teams. Once a game attains GOR status, the period ends in which incidental restarts may be permitted and a game will be considered as “official” from that point onward. After the establishment of GOR, game restarts will be allowed only under limited conditions (see Section 6.3).  Examples of conditions which establish GOR:
+A game of record (“GOR”) refers to a game where all ten players have loaded and which has progressed to a point of meaningful interaction between opposing teams. Once a game attains GOR status, the period ends in which incidental restarts may be permitted and a game will be considered as “official” from that point onward. After the establishment of GOR, game restarts will be allowed only under limited conditions (see [Section 6.3](#63-game-restart)).  Examples of conditions which establish GOR:
 
  - **6.1.1 Hostile contact.**  Any attack or ability is landed on minions, jungle creeps, structures, or enemy Champions.
  - **6.1.2 Vision**.  Vision established between players on opposing teams.
@@ -275,7 +275,7 @@ If NACC officials determine that the bug is critical and verifiable and that the
 
 If a team is offered a restart and declines, then the team will be ineligible to request a restart on the bug that caused the potential restart for the remainder of the match. However, NACC officials reserve the right at all times to force a game restart if the game environment reaches a level of instability that compromises the competitive integrity of the game.
 
-This section is applicable if the pause is directed as per Section 6.2 and does not limit the ability of a NACC official to institute a restart.
+This section is applicable if the pause is directed as per [Section 6.2](#62-directed-pause) and does not limit the ability of a NACC official to institute a restart.
 
 ### 6.3.1 Controlled Environment
 Certain conditions may be preserved in the event of a restart of a game that has not reached GOR, including, without limitation, Champion Select, rune/mastery loadouts, or Summoner spells. If, however, a match has reached GOR then NACC officials shall not retain any settings.
@@ -397,7 +397,7 @@ No Team Member or NACC official may take part, either directly or indirectly, in
 Any person found to have engaged in or attempted to engage in any act that NACC believes, in its sole and absolute discretion, constitutes unfair play, will be subject to penalty. The nature and extent of the penalties imposed due to such acts shall be in the sole and absolute discretion of the NACC.
 
 ## 7.5 Penalties
-Upon discovery of any Team Member committing any violations of the rules listed above, the NACC may, without limitation of its authority under Section 9.4, issue the following penalties:
+Upon discovery of any Team Member committing any violations of the rules listed above, the NACC may, without limitation of its, issue the following penalties:
 
  - **7.5.1** Verbal Warning
  - **7.5.2** Loss of Side Selection for Current or Future Game
