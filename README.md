@@ -230,24 +230,24 @@ Picks/bans will proceed through the client’s Tournament Draft feature. If pick
 Sides will be pre-determined during the regular season and teams will start on the blue and red sides an equal number of times against each opponent (one game per side). In all seed-based matches (qualifiers and playoffs), the higher-ranked seed will have side selection for odd-numbered games (e.g. Games 1, 3, and 5), while the lower seed will have side selection for even-numbered games (Games 2 and 4). For example, the higher seed may choose to play game 1 on blue side, but game 3 and 5 on red side and the lower seed may choose to play game 2 on red side and game 4 on blue side. Both teams will be required to submit their final decision by 7:00pm of the night before the match is scheduled (in the time zone where the game will be played). If no decision is submitted, selection will default to blue side.
 
 
-Champion Select Process
+## 5.16 Champion Select Process
 
+### 5.16.1 Tournament Draft 
+NACC officials may choose to employ either the Tournament Draft mode feature or a manual draft (e.g., draft that is conducted in chat without the use of an in-game feature).
 
-Tournament Draft. NACC officials may choose to employ either the Tournament Draft mode feature or a manual draft (e.g., draft that is conducted in chat without the use of an in-game feature).
+### 5.16.2 Restrictions on Gameplay Elements. 
+Restrictions may be added at any time before or during a match, if there are known bugs with any items, Champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of the NACC.
 
+### 5.16.3 Selection Error
+In the event of an erroneously-selected Champion pick or ban, the team in error must notify a NACC official before the other team has locked in their next selection. If so, the process will be restarted and brought back to the point at which the error occurred so that the team in error may correct its mistake. If the next selection is locked before the team in error gives notice to a NACC official, the erroneous selection shall be deemed irrevocable.
 
-Restrictions on Gameplay Elements. Restrictions may be added at any time before or during a match, if there are known bugs with any items, Champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of the NACC.
+### 5.16.4 Trading Champions
+Teams must complete all champion trades before the 20-second mark during the Trading Phase, or will be subject to a penalty in future games.
 
+### 5.16.5 Game Start
+A game will start immediately after the pick/ban process is complete, unless otherwise stated by a NACC official. Players are not allowed to quit a game during the time between the completion of picks/bans and game launch.
 
-Selection Error. In the event of an erroneously-selected Champion pick or ban, the team in error must notify a NACC official before the other team has locked in their next selection. If so, the process will be restarted and brought back to the point at which the error occurred so that the team in error may correct its mistake. If the next selection is locked before the team in error gives notice to a NACC official, the erroneous selection shall be deemed irrevocable.
-
-
-Trading Champions. Teams must complete all champion trades before the 20-second mark during the Trading Phase, or will be subject to a penalty in future games.
-
-
-Game Start. A game will start immediately after the pick/ban process is complete, unless otherwise stated by a NACC official. Players are not allowed to quit a game during the time between the completion of picks/bans and game launch.
-
-
-Controlled Game Start. In the event of an error in game start or a decision by NACC to separate the pick/ban process from game start, a NACC official may start the game in a controlled manner using Blind Pick. All players will select Champions in accordance with the previous valid completed Champion Select process.
+### 5.16.6 Controlled Game Start
+In the event of an error in game start or a decision by NACC to separate the pick/ban process from game start, a NACC official may start the game in a controlled manner using Blind Pick. All players will select Champions in accordance with the previous valid completed Champion Select process.
  
   
