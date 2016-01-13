@@ -249,5 +249,50 @@ A game will start immediately after the pick/ban process is complete, unless oth
 
 ### 5.16.6 Controlled Game Start
 In the event of an error in game start or a decision by NACC to separate the pick/ban process from game start, a NACC official may start the game in a controlled manner using Blind Pick. All players will select Champions in accordance with the previous valid completed Champion Select process.
- 
-  
+
+# 6 Game Rules
+
+## 6.1 Game of Record
+A game of record (“GOR”) refers to a game where all ten players have loaded and which has progressed to a point of meaningful interaction between opposing teams. Once a game attains GOR status, the period ends in which incidental restarts may be permitted and a game will be considered as “official” from that point onward. After the establishment of GOR, game restarts will be allowed only under limited conditions (see Section 6.3).  Examples of conditions which establish GOR:
+
+ - **6.1.1 Hostile contact.**  Any attack or ability is landed on minions, jungle creeps, structures, or enemy Champions.
+ - **6.1.2 Vision**.  Vision established between players on opposing teams.
+ - **6.1.3 Invasion**.  Setting foot, establishing vision or targeting skillshot ability in opponent’s jungle by either team, which includes either leaving the river or entering brush connected to enemy jungle.
+ - **6.1.4 Time**. Game timer reaches two minutes (00:02:00).
+
+
+## 6.2 Directed Pause.
+NACC officials may order the pause of a match or execute a pause command at any time for any reason, at their sole discretion.
+
+## 6.3 Game Restart
+If a game experiences a critical bug at any point during the match that significantly alters game stats or gameplay mechanics, or the external environmental conditions at a live event become untenable then a restart may occur.
+
+Certain circumstances must be met before a restart may occur. NACC officials must determine that the bug is critical and verifiable. For the bug to be considered critical, the bug must significantly damage a player’s ability to compete in the game situation.  The determination of whether the bug has damaged a player’s ability to compete is up to the sole discretion of the NACC officials. In order for a bug to be considered verifiable, the bug must be conclusively present and not possibly attributable to player error. The spectator must then be able to replay the instance in question and verify the bug. 
+
+If a player believes s/he has experienced a critical bug, s/he must pause the game and alert a referee in a timely fashion. If it is believed that a player is attempting to delay reporting of a bug to wait for a possible restart at a more advantageous time, then a restart will no longer be granted.
+
+If NACC officials determine that the bug is critical and verifiable and that the player followed the pause protocol, then the disadvantaged team will be presented with the option for a restart. If the team accepts, the game will immediately be restarted.  If the restart occurred due to a champion bug, then settings no longer will be retained (including picks and bans) regardless of Game of Record status and the champion will be made ineligible for at least the remainder of the day’s matches unless the bug can be conclusively tied to a specific game element that can be fully removed (i.e. a skin that can be disabled) or prohibited (i.e. the purchase of items).
+
+If a team is offered a restart and declines, then the team will be ineligible to request a restart on the bug that caused the potential restart for the remainder of the match. However, NACC officials reserve the right at all times to force a game restart if the game environment reaches a level of instability that compromises the competitive integrity of the game.
+
+This section is applicable if the pause is directed as per Section 6.2 and does not limit the ability of a NACC official to institute a restart.
+
+### 6.3.1 Controlled Environment
+Certain conditions may be preserved in the event of a restart of a game that has not reached GOR, including, without limitation, Champion Select, rune/mastery loadouts, or Summoner spells. If, however, a match has reached GOR then NACC officials shall not retain any settings.
+
+### 6.3.2 Player Confirmation of Settings
+Each team captain shall verify that every player on his/her team has finalized their intended game settings (including runes, masteries, controls, and GUI settings) before GOR is established. Any error in verification is not grounds for a game restart after GOR is established.
+
+## 6.4 Awarded Game Victory
+In the event of a technical difficulty which leads NACC officials to declare a restart, the NACC may instead award a game victory to a team. If a game has been played for more than 20 minutes on the game clock (00:20:00), NACC officials, in their sole discretion, may determine that a team cannot avoid defeat to a degree of reasonable certainty. The following criteria may be used in the determination of reasonable certainty.
+
+ - **6.4.1 Gold Differential**. The winning team has more than 133% of the losing team’s gold.
+ - **6.4.2 Remaining Turret Differential**. The difference in the number of remaining turrets between the teams is more than seven (7).
+ - **6.4.3 Remaining Inhibitor Differential**. The difference in the number of standing inhibitors between the teams is more than two (2).
+
+## 6.5 Mid-Match Break
+Teams are entitled to a short break of at least 5 minutes between games of a multi-game (e.g. best-of-3) match.  NACC officials will inform players of the remaining amount of time before the next game’s Champion Select phase begins.  Teams are subject to lateness time if they are not ready to begin after the break time ends.
+
+## 6.6 Results of Forfeiture
+Matches won by forfeit will be reported by the minimum score it would take for one team to win the match (e.g. 1-0 for best-of-1 matches, 2-0 for best-of-three matches, 3-0 for best-of-five matches).  No other statistics will be recorded for forfeited matches.
+
