@@ -12,7 +12,7 @@ All teams will be placed into one of four conferences based on the geographical 
  - **1.1.1.4 West**: Alaska, Arizona, California, Colorado, Hawaii, Idaho, Montana, Nevada, New Mexico, Oregon, Utah, Washington, Wyoming, Alberta, British Columbia, Saskatchewan
 
 ### 1.1.2 Multiple Teams per School
-Only one team may represent a single organization after the qualifier phase ends.  In the event that more than one team from the same school qualify, those teams will play in a tiebreaker format until 1 team remains (see 4.2.3).  An additional tiebreaker will be played between the 8 losing teams in the final round of the qualifier to determine the team(s) that will replace the losing teams from the intra-school tiebreaker.
+Only one team may represent a single organization after the qualifier phase ends.  In the event that more than one team from the same school qualify, those teams will play in a tiebreaker format until 1 team remains (see [4.2.3](#423-regular-season-tiebreaker)).  An additional tiebreaker will be played between the 8 losing teams in the final round of the qualifier to determine the team(s) that will replace the losing teams from the intra-school tiebreaker.
 
 
 ## 1.2 Eligibility Rules
@@ -62,7 +62,7 @@ Teams will be required to have six eligible players on its roster at all times. 
 The Active Roster will be displayed on an official competition website, to be shared publicly with teams. The Active Roster on that website will be updated upon proper filing of documentation. Once an acquisition is confirmed, the acquisition will be placed on the website. The Active Roster on that website will be considered the most up to date roster that could be applied within a reasonable time. Roster eligibility is still at the discretion of NACC officials.
 
 ## 3.3 Team Manager
-Each team must also designate a Team Manager, who may be but does not need to be a player on the Active Roster. The Manager will be the primary point of contact for all NACC officials, and will also be the signatory authority for any documents which cause changes to the Active Roster, as outlined in Section 3.3 and 3.4. The manager must be identified before the start of the Series, and a successor must be immediately identified if the Manager leaves the team (for any reason). The manager must be fully eligible in accordance with Sections 1.2.3 and 1.3.
+Each team must also designate a Team Manager, who may be but does not need to be a player on the Active Roster. The Manager will be the primary point of contact for all NACC officials, and will also be the signatory authority for any documents which cause changes to the Active Roster, as outlined in [Section 3.3](#33-team-manager) and [3.4](#34-manager-overrule). The manager must be identified before the start of the Series, and a successor must be immediately identified if the Manager leaves the team (for any reason). The manager must be fully eligible in accordance with Sections [1.2.3](#123-riot-disciplinary-status) and [1.3](#13-no-riot-employees).
 
 ## 3.4 Manager Overrule
 At the sole discretion of NACC officials, team managers may be overruled or replaced due to negligence, malice, or other reasonable suspicion of malfeasance.
@@ -71,7 +71,7 @@ At the sole discretion of NACC officials, team managers may be overruled or repl
 Teams may freely play any 5 players from their roster at any time without any notification or approval process.
 
 ## 3.6 Acquisitions
-A team may only acquire new players if a player is removed from their roster, per section 3.1.  Any new players must be fully eligible per Section 1.  If a team wishes to acquire a new player, that acquisition must be declared to a NACC official more than 3 full days before the game where the player would be utilized (e.g. if the next match is on Friday, a new player must be declared no later than Monday). NACC officials reserve the right to approve or deny any such request, based upon the eligibility of the players involved and the request’s compliance with the Rules.
+A team may only acquire new players if a player is removed from their roster, per [Section 3.1](#31-roster-size).  Any new players must be fully eligible per [Section 1](#1-competition-eligibility).  If a team wishes to acquire a new player, that acquisition must be declared to a NACC official more than 3 full days before the game where the player would be utilized (e.g. if the next match is on Friday, a new player must be declared no later than Monday). NACC officials reserve the right to approve or deny any such request, based upon the eligibility of the players involved and the request’s compliance with the Rules.
 
 ## 3.7 Summoner Name Restrictions
 For players who qualify for the Regular Season, Summoner Names and Team Names may not contain: vulgarities or obscenities; LoL champion derivatives or other similar character names; or derivatives of products or services that may create confusion.
