@@ -147,3 +147,107 @@ This phase consists of a two-round, best-of-5 single elimination tournament amon
   - **4.3.4 Conference Championship**: Mar 28 -  Apr 3
   - **4.3.5 NACC Finals**: Apr 18 - May 1
   - **4.3.6 Changes to Schedule**: NACC may, at its sole discretion, re-order the schedule of matches within a given day and/or change the date of a NACC match to a different date or otherwise modify the schedule of matches. In the event that NACC modifies a match schedule, NACC will notify all teams at the earliest convenience.
+ 
+# 5. Match Process
+
+## 5.1 Role of Referees
+Referees are NACC officials who are responsible for making judgments on every match-related issue, question and situation which occurs before, during, and immediately following match play.
+
+### 5.1.1 Referee Responsibilities.  
+Referee oversight may include, but is not limited to the following:
+
+ - **5.1.1.1** Checking the team’s lineup before a match.
+ - **5.1.1.2** Announcing the beginning of the match.
+ - **5.1.1.3** Ordering pause/resume during play.
+ - **5.1.1.4** Issuing penalties in response to Rule violations before, during, or after the match.
+ - **5.1.1.5** Confirming the end of the match and its results.
+
+### 5.1.2 Referee Comportment
+At all times, referees shall conduct themselves in a professional manner, and shall issue rulings in an impartial manner. No passion or prejudice will be shown towards any player, team, team manager, coach, owner, or other individual.
+
+### 5.1.3 Finality of Judgment
+If a referee makes an incorrect judgment, the judgment can be subject to reversal. NACC officials at their discretion may evaluate the decision during or after the match to determine if the proper procedure was implemented to allow for a fair decision.  If the proper procedure was not followed, NACC officials reserve the right to potentially invalidate the referee’s decision. NACC officials will always maintain final say in all decisions set forth throughout the NACC.
+
+### 5.1.4 Gambling Prohibition
+All rules prohibiting gambling on LoL, as found below in Section 9, shall apply to referees without limitation.
+
+## 5.2 Competitive Patch & Server
+NACC will be played on the North America live server.  As such, the current live patch will be used for all competitive play.
+
+
+## 5.3 New & Reworked Champions
+Champions who have not been available on the live service for more than 3 days will be automatically prohibited from use. Champions that have undergone reworks will be subject to NACC discretion.
+
+Example: Champion A was released January 1, 2016, so Champion A becomes eligible to be used in all NACC matches on or after January 4, 2016.
+
+NACC will not unlock a champion in the middle of a week of the Regular Season or round of the Playoffs.
+
+## 5.4 Setup and Player Responsibilities for Online Matches
+All players will be expected to be ready to join the game lobby at the time specified by the NACC officials.  Readiness includes, but is not limited to, five rostered players having completed client patching, configuration of in-game settings, and completed rune and mastery pages.
+
+## 5.5 Schedule Adjustments
+NACC officials, in their sole discretion, have the right to adjust the match schedule at any time to preserve the pacing of the tournament or to remedy such circumstances as may detract from the viewer experience.
+
+## 5.6 Lateness Penalties
+Teams that are not ready to play as defined Section 5.4 at their official match time are subject to lateness penalties. A team will lose one ban per 5 minutes of lateness.  A team will be subject to forfeiture if 25 minutes have elapsed since their official match time.  Intentionally delaying the lobby or game start will still subject the team to the rules set forth in this section.
+
+## 5.7 Pause Process
+Teams or players may pause the game for any reason.  After a pause, the pausing team must use /all to share the reason for the pause and the estimated time to unpause.  When a team is ready to unpause, at least one player from both teams must declare their readiness in /all chat (e.g. “ready” or “r”) before the pausing team is allowed to unpause the game.
+
+## 5.8 Pause Allowance
+Teams may pause the game for a maximum of 10 minutes over the course of a single game, or 20 minutes over the course of a best-of-three match.  Pausing beyond allowance time will be considered unfair play and penalties will be applied at the discretion of tournament officials.
+
+## 5.9 4v5 Play
+Teams are required to field a full team of five players be considered ready to start any match.  If a player disconnects from the lobby or champion select, the team is no longer ready to play, and lateness time begins.  If a player disconnects from the game, the game may continue as normal or be paused per section 5.8.
+
+## 5.10 Player Equipment Responsibility
+All players are responsible for ensuring the performance of their chosen setup, including computer hardware and peripherals, internet connection, and power.  A problem with player equipment is not an acceptable reason for lateness or pausing beyond a team’s allowance, regardless of the root cause of the problem.
+
+## 5.11 No Spectators
+Only five players per team are allowed in the game lobby.  No additional spectators are permitted for any reason.
+
+## 5.12 No Streaming
+Players are not permitted to stream their tournament matches publicly or privately on any platform or service. Players may stream personal or professional recordings of the match after the broadcast has officially completed.
+
+## 5.13 Game Lobby Creation.
+NACC officials will open the official game lobby and provide access to competing teams. Players will be directed by NACC officials to join a game lobby as soon as testing has been completed, in the following order of positions: Top, Jungle, Mid, ADC, Support.
+
+## 5.14 Game Setup
+
+### 5.14.1 Start of Champion Select
+Once all ten players have reported to the official game lobby, a NACC official will request confirmation that both teams are ready for Champion Select.  Once both teams confirm readiness, a NACC official will instruct the room owner to start the game.
+
+### 5.14.2 Recording of Champion Select
+Picks/bans will proceed through the client’s Tournament Draft feature. If picks/bans are completed in advance of game setup for any reason, NACC officials will record the official picks/bans and manually abort the game start.
+
+### 5.14.3 Game Lobby Settings
+ - **5.14.3.1 Map**: Summoner’s Rift
+ - **5.14.3.2 Team Size**: 5
+ - **5.14.3.3 Allow Spectators**: Lobby Only
+ - **5.14.3.4 Game Type**: Tournament Draft
+
+##5.15 Side Selection.
+Sides will be pre-determined during the regular season and teams will start on the blue and red sides an equal number of times against each opponent (one game per side). In all seed-based matches (qualifiers and playoffs), the higher-ranked seed will have side selection for odd-numbered games (e.g. Games 1, 3, and 5), while the lower seed will have side selection for even-numbered games (Games 2 and 4). For example, the higher seed may choose to play game 1 on blue side, but game 3 and 5 on red side and the lower seed may choose to play game 2 on red side and game 4 on blue side. Both teams will be required to submit their final decision by 7:00pm of the night before the match is scheduled (in the time zone where the game will be played). If no decision is submitted, selection will default to blue side.
+
+
+Champion Select Process
+
+
+Tournament Draft. NACC officials may choose to employ either the Tournament Draft mode feature or a manual draft (e.g., draft that is conducted in chat without the use of an in-game feature).
+
+
+Restrictions on Gameplay Elements. Restrictions may be added at any time before or during a match, if there are known bugs with any items, Champions, skins, runes, masteries, or Summoner spells, or for any other reason as determined at the discretion of the NACC.
+
+
+Selection Error. In the event of an erroneously-selected Champion pick or ban, the team in error must notify a NACC official before the other team has locked in their next selection. If so, the process will be restarted and brought back to the point at which the error occurred so that the team in error may correct its mistake. If the next selection is locked before the team in error gives notice to a NACC official, the erroneous selection shall be deemed irrevocable.
+
+
+Trading Champions. Teams must complete all champion trades before the 20-second mark during the Trading Phase, or will be subject to a penalty in future games.
+
+
+Game Start. A game will start immediately after the pick/ban process is complete, unless otherwise stated by a NACC official. Players are not allowed to quit a game during the time between the completion of picks/bans and game launch.
+
+
+Controlled Game Start. In the event of an error in game start or a decision by NACC to separate the pick/ban process from game start, a NACC official may start the game in a controlled manner using Blind Pick. All players will select Champions in accordance with the previous valid completed Champion Select process.
+ 
+  
