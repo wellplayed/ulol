@@ -191,7 +191,7 @@ All players will be expected to be ready to join the game lobby at the time spec
 Campus Series officials, in their sole discretion, have the right to adjust the match schedule at any time to preserve the pacing of the tournament or to remedy such circumstances as may detract from the viewer experience.
 
 ## 5.6 Lateness Penalties
-Teams that are not ready to play as defined [Section 5.4](#54-setup-and-player-responsibilities-for-online-matches) at their official match time are subject to lateness penalties. A team will lose one ban per 5 minutes of lateness.  A team will be subject to forfeiture if 25 minutes have elapsed since their official match time.  Intentionally delaying the lobby or game start will still subject the team to the rules set forth in this section.
+Teams that are not ready to play as defined [Section 5.4](#54-setup-and-player-responsibilities-for-online-matches) at their official match time are subject to lateness penalties. A team will lose one ban per 5 minutes of lateness.  A team will be subject to match forfeiture if 25 minutes have elapsed since their official match time. Intentionally delaying the lobby or game start will still subject the team to the rules set forth in this section.
 
 ## 5.7 Pause Process
 Teams or players may pause the game for any reason.  After a pause, the pausing team must use /all to share the reason for the pause and the estimated time to unpause.  When a team is ready to unpause, at least one player from both teams must declare their readiness in /all chat (e.g. “ready” or “r”) before the pausing team is allowed to unpause the game.
