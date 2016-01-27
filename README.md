@@ -197,7 +197,7 @@ Teams that are not ready to play as defined [Section 5.4](#54-setup-and-player-r
 Teams or players may pause the game for any reason.  After a pause, the pausing team must use /all to share the reason for the pause and the estimated time to unpause.  When a team is ready to unpause, at least one player from both teams must declare their readiness in /all chat (e.g. “ready” or “r”) before the pausing team is allowed to unpause the game.
 
 ## 5.8 Pause Allowance
-Teams may pause the game for a maximum of 10 minutes over the course of a single game, or 20 minutes over the course of a best-of-three match.  Pausing beyond allowance time will be considered unfair play and penalties will be applied at the discretion of tournament officials.
+Teams may pause the game for a maximum of 10 minutes over the course of a single game, or 20 minutes over the course of a best-of-three or best-of-two match.  Pausing beyond allowance time will be considered unfair play and penalties will be applied at the discretion of tournament officials.
 
 ## 5.9 4v5 Play
 Teams are required to field a full team of five players be considered ready to start any match.  If a player disconnects from the lobby or champion select, the team is no longer ready to play, and lateness time begins.  If a player disconnects from the game, the game may continue as normal or be paused per [Section 5.8](#58-pause-allowance).
