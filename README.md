@@ -426,3 +426,12 @@ These Rules may be amended, modified or supplemented by Campus Series, from time
 
 ## 8.3 Best Interests of the Campus Series
 Campus Series officials at all times may act with the necessary authority to preserve the best interests of the Campus Series. This power is not constrained by lack of specific language in this document. Campus Series officials may use any form of punitive actions at their disposal against any entity whose conduct is not within the confines of the best interests of the Campus Series.
+
+# 9 Prohibition From Other Collegiate Competitions
+Players that are on the active roster of a uLoL Campus Series team are prohibited from competing in other national collegiate League of Legends competitions. This does not limit players from participating in local or region-specific competitions.
+
+## 9.1 Prohibited Events
+The following is an **incomplete** list of events that Campus Series players are prohibited from participating in.
+
+ - Collegiate StarLeague (CSL)
+ - National Collegiate e-Sports Association (NCeSPA)
