@@ -190,7 +190,7 @@ All players will be expected to be ready to join the game lobby at the time spec
 ## 5.5 Schedule Adjustments
 Campus Series officials, in their sole discretion, have the right to adjust the match schedule at any time to preserve the pacing of the tournament or to remedy such circumstances as may detract from the viewer experience.
 
-##5.5.1 Schedule Adjustment Deadline
+### 5.5.1 Schedule Adjustment Deadline
 If teams need to reschedule their match, a representative from one team must make a submission with the Match Reschedule Request form by 5pm EST the day BEFORE the scheduled match. Reschedule requests received after the cutoff will not be honored.
 
 ## 5.6 Lateness Penalties
