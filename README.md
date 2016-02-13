@@ -190,6 +190,9 @@ All players will be expected to be ready to join the game lobby at the time spec
 ## 5.5 Schedule Adjustments
 Campus Series officials, in their sole discretion, have the right to adjust the match schedule at any time to preserve the pacing of the tournament or to remedy such circumstances as may detract from the viewer experience.
 
+##5.5.1 Schedule Adjustment Deadline
+If teams need to reschedule their match, a representative from one team must make a submission with the Match Reschedule Request form by 5pm EST the day BEFORE the scheduled match. Reschedule requests received after the cutoff will not be honored.
+
 ## 5.6 Lateness Penalties
 Teams that are not ready to play as defined [Section 5.4](#54-setup-and-player-responsibilities-for-online-matches) at their official match time are subject to lateness penalties. A team will lose one ban per 5 minutes of lateness.  A team will be subject to match forfeiture if 25 minutes have elapsed since their official match time. Intentionally delaying the lobby or game start will still subject the team to the rules set forth in this section.
 
