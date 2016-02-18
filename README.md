@@ -138,7 +138,7 @@ The teams will be randomly drawn into a single elimination bracket, with teams r
 This phase consists of a two-round, best-of-5 single elimination tournament among the top 4 teams from each conference.  Teams will be seeded based on their Regular Season record and Tiebreakers (if applicable). Side choice will begin with the higher-seeded team and alternate per game.
 
 ### 4.2.5 Campus Series Finals
-This phase consists of a two-round, best-of-5 single elimination tournament among the 4 winners from each Conference Championship. Side choice for the first game of each match will be determined by coin flip, then will alternate per game.
+This phase consists of a two-round, best-of-5 single elimination tournament among the 4 winners from each Conference Championship. Side choice for the first game of each match will be determined by coin flip, then will alternate per game. Seeding will be done randomly.
 
 
 ## 4.3 Schedule
